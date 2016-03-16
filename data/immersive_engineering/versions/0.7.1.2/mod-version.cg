@@ -1,5 +1,142 @@
 schema: 1
 
+group: Basic Tools
+
+  item: Engineer's Hammer
+    recipe:
+      input: Iron Ingot, Stick, String
+        pattern: .02 .10 1..
+        quantity: 1
+        tools: Crafting Table
+
+  item: Engineer's Manual
+    recipe:
+      input: Book, Lever
+        pattern: 01. ... ...
+        quantity: 1
+
+  item: Engineer's Voltmeter
+    recipe:
+      input: Compass, Copper Ingot, Treated Stick
+        pattern: .0. 212 .1.
+        quantity: 1
+        tools: Crafting Table
+
+  item: Engineer's Wire Cutters
+    recipe:
+      input: Iron Ingot, Treated Stick
+        pattern: 10. .1. ...
+        quantity: 1
+
+group: Bullets
+
+  item: Empty Casing
+    recipe:
+      input: Copper Ingot
+      pattern: 0.0 0.0 .0.
+      quantity: 3
+      tools: Crafting Table
+
+  item: Empty Shell
+    recipe:
+      input: Rose Red, Paper, Copper Ingot
+      pattern: 101 101 .2.
+      quantity: 3
+      tools: Crafting Table
+
+# item: Casull Cartridge
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Armor-Piercing Cartridge
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Buckshot Cartridge
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Dragon's Breath Cartridge
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: High-Explosive Cartridge
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Homing Cartridge
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Phial Cartridge
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Silver Cartridge
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Wolfpack Cartridge
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+group: Blueprints
+
+  item: Engineer's Blueprint
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Engineer's Blueprint_2
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Engineer's Blueprint_3
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+group: Drill
+
+group: Ranged Weapons
+
+group: Tool Upgrades
+
+
 # item: Additional Augers
 #    recipe:
 #        input:
@@ -105,12 +242,6 @@ schema: 1
 #        quantity: 1
 #        tools: Crafting Table
 
-# item: Armor-Piercing Cartridge
-#    recipe:
-#        input:
-#        pattern: ... ... ...
-#        quantity: 1
-#        tools: Crafting Table
 
 # item: Balloon
 #    recipe:
@@ -274,20 +405,6 @@ schema: 1
 #        tools: Crafting Table
 
 # item: Bucket of Plant Oil
-#    recipe:
-#        input:
-#        pattern: ... ... ...
-#        quantity: 1
-#        tools: Crafting Table
-
-# item: Buckshot Cartridge
-#    recipe:
-#        input:
-#        pattern: ... ... ...
-#        quantity: 1
-#        tools: Crafting Table
-
-# item: Casull Cartridge
 #    recipe:
 #        input:
 #        pattern: ... ... ...
@@ -483,13 +600,6 @@ schema: 1
 #        quantity: 1
 #        tools: Crafting Table
 
-# item: Dragon's Breath Cartridge
-#    recipe:
-#        input:
-#        pattern: ... ... ...
-#        quantity: 1
-#        tools: Crafting Table
-
 # item: Dropping Conveyor Belt
 #    recipe:
 #        input:
@@ -532,55 +642,6 @@ schema: 1
 #        quantity: 1
 #        tools: Crafting Table
 
-# item: Empty Casing
-#    recipe:
-#        input:
-#        pattern: ... ... ...
-#        quantity: 1
-#        tools: Crafting Table
-
-# item: Empty Shell
-#    recipe:
-#        input:
-#        pattern: ... ... ...
-#        quantity: 1
-#        tools: Crafting Table
-
-# item: Engineer's Blueprint
-#    recipe:
-#        input:
-#        pattern: ... ... ...
-#        quantity: 1
-#        tools: Crafting Table
-
-# item: Engineer's Blueprint_2
-#    recipe:
-#        input:
-#        pattern: ... ... ...
-#        quantity: 1
-#        tools: Crafting Table
-
-# item: Engineer's Blueprint_3
-#    recipe:
-#        input:
-#        pattern: ... ... ...
-#        quantity: 1
-#        tools: Crafting Table
-
-# item: Engineer's Hammer
-#    recipe:
-#        input:
-#        pattern: ... ... ...
-#        quantity: 1
-#        tools: Crafting Table
-
-# item: Engineer's Manual
-#    recipe:
-#        input:
-#        pattern: ... ... ...
-#        quantity: 1
-#        tools: Crafting Table
-
 # item: Engineer's Skyhook
 #    recipe:
 #        input:
@@ -589,20 +650,6 @@ schema: 1
 #        tools: Crafting Table
 
 # item: Engineer's Toolbox
-#    recipe:
-#        input:
-#        pattern: ... ... ...
-#        quantity: 1
-#        tools: Crafting Table
-
-# item: Engineer's Voltmeter
-#    recipe:
-#        input:
-#        pattern: ... ... ...
-#        quantity: 1
-#        tools: Crafting Table
-
-# item: Engineer's Wire Cutters
 #    recipe:
 #        input:
 #        pattern: ... ... ...
@@ -714,21 +761,7 @@ schema: 1
 #        quantity: 1
 #        tools: Crafting Table
 
-# item: High-Explosive Cartridge
-#    recipe:
-#        input:
-#        pattern: ... ... ...
-#        quantity: 1
-#        tools: Crafting Table
-
 # item: High-Voltage Wire Coil
-#    recipe:
-#        input:
-#        pattern: ... ... ...
-#        quantity: 1
-#        tools: Crafting Table
-
-# item: Homing Cartridge
 #    recipe:
 #        input:
 #        pattern: ... ... ...
@@ -1113,13 +1146,6 @@ schema: 1
 #        quantity: 1
 #        tools: Crafting Table
 
-# item: Phial Cartridge
-#    recipe:
-#        input:
-#        pattern: ... ... ...
-#        quantity: 1
-#        tools: Crafting Table
-
 # item: Powered Lantern
 #    recipe:
 #        input:
@@ -1470,13 +1496,6 @@ schema: 1
 #        quantity: 1
 #        tools: Crafting Table
 
-# item: Silver Cartridge
-#    recipe:
-#        input:
-#        pattern: ... ... ...
-#        quantity: 1
-#        tools: Crafting Table
-
 # item: Silver Grit
 #    recipe:
 #        input:
@@ -1751,13 +1770,6 @@ schema: 1
 #        tools: Crafting Table
 
 # item: Windmill
-#    recipe:
-#        input:
-#        pattern: ... ... ...
-#        quantity: 1
-#        tools: Crafting Table
-
-# item: Wolfpack Cartridge
 #    recipe:
 #        input:
 #        pattern: ... ... ...
