@@ -1,1 +1,1801 @@
 schema: 1
+
+# item: Additional Augers
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Additional Capacitors
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Advanced Lubrication System
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Aluminium Fence
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Aluminium Grit
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Aluminium Ingot
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Aluminium Nugget
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Aluminium Plate
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Aluminium Rod
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Aluminium Scaffolding
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Aluminium Scaffolding_2
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Aluminium Sheet Metal Block
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Aluminium Slab
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Aluminium Structural Arm
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Amplifier Electron Tubes
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Armor-Piercing Cartridge
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Balloon
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Bauxite Ore
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Bayonet
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Berry Medley
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Blast Brick
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Blast Furnace Preheater
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Block of Aluminium
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Block of Coal Coke
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Block of Constantan
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Block of Copper
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Block of Electrum
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Block of Lead
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Block of Nickel
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Block of Silver
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Block of Steel
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Bottle of Biodiesel
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Bottle of Creosote Oil
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Bottle of Ethanol
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Bottle of Plant Oil
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Breaker Switch
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Bucket of Biodiesel
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Bucket of Creosote Oil
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Bucket of Ethanol
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Bucket of Plant Oil
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Buckshot Cartridge
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Casull Cartridge
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Charging Station
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Chemical Thrower
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Coal Coke
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Coke Brick
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Coke Dust
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Common Shader Grabbag
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Concrete Stairs
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Concrete Tile Stairs
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Concrete Tile
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Concrete
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Constantan Grit
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Constantan Ingot
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Constantan Nugget
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Constantan Plate
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Constantan Slab
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Construction Mark
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Conveyor Belt
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Copper Grit
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Copper Ingot
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Copper Nugget
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Copper Ore
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Copper Slab
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Copper Wire Coil
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Core Sample Drill
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Cosmic Shader Grabbag
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Creative Capacitor
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Current Transformer
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Dragon's Breath Cartridge
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Dropping Conveyor Belt
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Electrum Grit
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Electrum Ingot
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Electrum Nugget
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Electrum Slab
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Electrum Wire Coil
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Empty Casing
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Empty Shell
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Engineer's Blueprint
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Engineer's Blueprint_2
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Engineer's Blueprint_3
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Engineer's Hammer
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Engineer's Manual
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Engineer's Skyhook
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Engineer's Toolbox
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Engineer's Voltmeter
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Engineer's Wire Cutters
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Engineer's Workbench
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Epic Shader Grabbag
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Extended Magazine
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: External Heater
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Fermenter
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Floodlight
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Fluid Pipe
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Fluid Pump
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Focused Nozzle
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Generator Block
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Gold Grit
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Graphite Electrode
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Heavy Engineering Block
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Hemp Rope Coil
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Hempcrete
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: High-Explosive Cartridge
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: High-Voltage Wire Coil
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Homing Cartridge
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: HOP Graphite Dust
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: HOP Graphite Ingot
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: HV Capacitor
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: HV Capacitor_2
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: HV Transformer
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: HV Wire Coil
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: HV Wire Connector
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: HV Wire Relay
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Improved Windmill Blade
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Improved Windmill
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Industrial Hemp Fiber
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Industrial Hemp Seeds
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Industrial Hemp
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Industrial Squeezer
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Insulating Glass
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Iron Drill Head
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Iron Grit
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Iron Mechanical Component
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Iron Nugget
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Iron Plate
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Iron Rod
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Item Router
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Jerrycan
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Kinetic Dynamo
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Lantern
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Large Tank
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Lead Grit
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Lead Ingot
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Lead Nugget
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Lead Ore
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Lead Plate
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Lead Sheet Metal Block
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Lead Slab
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Light Engineering Block
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Lightning Rod Base
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: LV Capacitor
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: LV Capacitor_2
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: LV Wire Coil
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: LV Wire Connector
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Metal Barrel
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Metal Press Mold_ Gear
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Metal Press Mold_ Plate
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Metal Press Mold_ Rod
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Mining Drill
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: MV Capacitor
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: MV Capacitor_2
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: MV Wire Coil
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: MV Wire Connector
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Netherrack
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Nickel Grit
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Nickel Ingot
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Nickel Nugget
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Nickel Ore
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Nickel Slab
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Phial Cartridge
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Powered Lantern
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Precision Scope
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Pressurized Air Tank
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Quartz Dust
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Radiator Block
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Railgun
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Rare Shader Grabbag
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Redstone Breaker
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Reinforced Blast Brick
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Relic Shader Grabbag
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Revolver Barrel
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Revolver Drum
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Revolver Hammer
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Revolver Speedloader
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Revolver
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Shader_ Aero
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Shader_ Angel's Thesis
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Shader_ Argo
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Shader_ Chloris
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Shader_ Cosmic
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Shader_ Crescent Rose
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Shader_ Dragon's Breath
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Shader_ Falconmoon
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Shader_ Felix
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Shader_ Fox
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Shader_ Glacis
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Shader_ Harrowed
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Shader_ Hollow
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Shader_ Locus
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Shader_ Magnum
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Shader_ Mass Fusion
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Shader_ Matrix
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Shader_ Miló
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Shader_ Phoenix
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Shader_ Qrow
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Shader_ Radiant
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Shader_ Regal
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Shader_ Rosequartz
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Shader_ Sharkface
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Shader_ Solum
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Shader_ Spectral
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Shader_ Sponsor
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Shader_ StormFlower
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Shader_ Sunstrike
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Shader_ Taken
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Shader_ Trident
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Shader_ Vanguard
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Shader_ Vault-Tec
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Shader_ Warbird
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Sheet Metal Block
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Silver Cartridge
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Silver Grit
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Silver Ingot
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Silver Nugget
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Silver Ore
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Silver Slab
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Slag
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Steel Cable Coil
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Steel Drill Head
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Steel Fence
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Steel Ingot
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Steel Mechanical Component
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Steel Nugget
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Steel Plate
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Steel Rod
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Steel Scaffolding
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Steel Scaffolding_2
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Steel Sheet Metal Block
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Steel Slab
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Steel Wall Mount
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Structural Arm
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Structural Cable Connector
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Thermoelectric Generator
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Tough Fabric
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Transformer
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Treated Stick
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Treated Wood Doubleslab
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Treated Wood Fence
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Treated Wood Planks
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Treated Wood Planks_2
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Treated Wood Planks_3
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Treated Wood Scaffolding
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Treated Wood Slab
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Treated Wood Stairs
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Treated Wood Stairs_2
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Treated Wood Stairs_3
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Uncommon Shader Grabbag
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Water Wheel
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Waterwheel Segment
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Windmill Blade
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Windmill
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Wolfpack Cartridge
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Wooden Barrel
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Wooden Grip
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Wooden Post
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Wooden Storage Crate
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
+# item: Wooden Wall Mount
+#    recipe:
+#        input:
+#        pattern: ... ... ...
+#        quantity: 1
+#        tools: Crafting Table
+
