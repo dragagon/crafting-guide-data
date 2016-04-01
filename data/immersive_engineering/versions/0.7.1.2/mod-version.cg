@@ -2,19 +2,17 @@ schema: 1
 
 group: Basic Parts
 
-# item: Aluminium Plate
-#    recipe:
-#        input:
-#        pattern: ... ... ...
-#        quantity: 1
-#        tools: Crafting Table
+  item: Aluminium Plate
+    recipe:
+        input: Aluminium Ingot, Engineer's Hammer
+        pattern: 01. ... ...
+        quantity: 1
 
-# item: Aluminium Rod
-#    recipe:
-#        input:
-#        pattern: ... ... ...
-#        quantity: 1
-#        tools: Crafting Table
+  item: Aluminium Rod
+    recipe:
+        input: Aluminium Ingot
+        pattern: 0.. 0.. ...
+        quantity: 4
 
 # item: Aluminium Sheet Metal Block
 #    recipe:
@@ -23,12 +21,11 @@ group: Basic Parts
 #        quantity: 1
 #        tools: Crafting Table
 
-# item: Constantan Plate
-#    recipe:
-#        input:
-#        pattern: ... ... ...
-#        quantity: 1
-#        tools: Crafting Table
+  item: Constantan Plate
+    recipe:
+        input: Constantan Ingot, Engineer's Hammer
+        pattern: 01. ... ...
+        quantity: 1
 
 # item: Copper Wire Coil
 #    recipe:
@@ -86,19 +83,17 @@ group: Basic Parts
 #        quantity: 1
 #        tools: Crafting Table
 
-# item: Iron Plate
-#    recipe:
-#        input:
-#        pattern: ... ... ...
-#        quantity: 1
-#        tools: Crafting Table
+  item: Iron Plate
+    recipe:
+        input: Iron Ingot, Engineer's Hammer
+        pattern: 01. ... ...
+        quantity: 1
 
-# item: Iron Rod
-#    recipe:
-#        input:
-#        pattern: ... ... ...
-#        quantity: 1
-#        tools: Crafting Table
+  item: Iron Rod
+    recipe:
+        input: Iron Ingot
+        pattern: 0.. 0.. ...
+        quantity: 4
 
 # item: Insulating Glass
 #    recipe:
@@ -114,12 +109,11 @@ group: Basic Parts
 #        quantity: 1
 #        tools: Crafting Table
 
-# item: Lead Plate
-#    recipe:
-#        input:
-#        pattern: ... ... ...
-#        quantity: 1
-#        tools: Crafting Table
+  item: Lead Plate
+    recipe:
+        input: Lead Ingot, Engineer's Hammer
+        pattern: 01. ... ...
+        quantity: 1
 
 # item: Powered Lantern
 #    recipe:
@@ -191,19 +185,17 @@ group: Basic Parts
 #        quantity: 1
 #        tools: Crafting Table
 
-# item: Steel Plate
-#    recipe:
-#        input:
-#        pattern: ... ... ...
-#        quantity: 1
-#        tools: Crafting Table
+  item: Steel Plate
+    recipe:
+        input: Steel Ingot, Engineer's Hammer
+        pattern: 01. ... ...
+        quantity: 1
 
-# item: Steel Rod
-#    recipe:
-#        input:
-#        pattern: ... ... ...
-#        quantity: 1
-#        tools: Crafting Table
+  item: Steel Rod
+    recipe:
+        input: Steel Ingot
+        pattern: 0.. 0.. ...
+        quantity: 4
 
 # item: Tough Fabric
 #    recipe:
@@ -212,19 +204,19 @@ group: Basic Parts
 #        quantity: 1
 #        tools: Crafting Table
 
-# item: Treated Stick
-#    recipe:
-#        input:
-#        pattern: ... ... ...
-#        quantity: 1
-#        tools: Crafting Table
+  item: Treated Stick
+    recipe:
+        input: Treated Wood Planks
+        pattern: 0.. 0.. ...
+        quantity: 4
+        tools: Crafting Table
 
-# item: Treated Wood Doubleslab
-#    recipe:
-#        input:
-#        pattern: ... ... ...
-#        quantity: 1
-#        tools: Crafting Table
+ item: Treated Wood Doubleslab
+    recipe:
+        input:
+        pattern: ... ... ...
+        quantity: 1
+        tools: Crafting Table
 
 # item: Treated Wood Fence
 #    recipe:
@@ -233,12 +225,12 @@ group: Basic Parts
 #        quantity: 1
 #        tools: Crafting Table
 
-# item: Treated Wood Planks
-#    recipe:
-#        input:
-#        pattern: ... ... ...
-#        quantity: 1
-#        tools: Crafting Table
+ item: Treated Wood Planks
+    recipe:
+        input: Bottle of Creosote Oil, Oak Wood Planks
+        pattern: 111 101 111
+        quantity: 8
+        tools: Crafting Table
 
 # item: Wooden Grip
 #    recipe:
@@ -336,285 +328,268 @@ group: Resources
 
   item: Silver Ore; gatherable: yes
 
-# item: Block of Aluminium
-#    recipe:
-#        input:
-#        pattern: ... ... ...
-#        quantity: 1
-#        tools: Crafting Table
+  item: Block of Aluminium
+    recipe:
+        input: Aluminium Ingot
+        pattern: 000 000 000
+        quantity: 1
+        tools: Crafting Table
 
-# item: Block of Coal Coke
-#    recipe:
-#        input:
-#        pattern: ... ... ...
-#        quantity: 1
-#        tools: Crafting Table
+  item: Block of Coal Coke
+    recipe:
+        input: Coal Coke
+        pattern: 000 000 000
+        quantity: 1
+        tools: Crafting Table
 
-# item: Block of Constantan
-#    recipe:
-#        input:
-#        pattern: ... ... ...
-#        quantity: 1
-#        tools: Crafting Table
+  item: Block of Constantan
+    recipe:
+        input: Constantan Ingot
+        pattern: 000 000 000
+        quantity: 1
+        tools: Crafting Table
 
-# item: Block of Copper
-#    recipe:
-#        input:
-#        pattern: ... ... ...
-#        quantity: 1
-#        tools: Crafting Table
+  item: Block of Copper
+    recipe:
+        input: Copper Ingot
+        pattern: 000 000 000
+        quantity: 1
+        tools: Crafting Table
 
-# item: Block of Electrum
-#    recipe:
-#        input:
-#        pattern: ... ... ...
-#        quantity: 1
-#        tools: Crafting Table
+  item: Block of Electrum
+    recipe:
+        input: Electrum Ingot
+        pattern: 000 000 000
+        quantity: 1
+        tools: Crafting Table
 
-# item: Block of Lead
-#    recipe:
-#        input:
-#        pattern: ... ... ...
-#        quantity: 1
-#        tools: Crafting Table
+  item: Block of Lead
+    recipe:
+        input: Lead Ingot
+        pattern: 000 000 000
+        quantity: 1
+        tools: Crafting Table
 
-# item: Block of Nickel
-#    recipe:
-#        input:
-#        pattern: ... ... ...
-#        quantity: 1
-#        tools: Crafting Table
+  item: Block of Nickel
+    recipe:
+        input: Nickel Ingot
+        pattern: 000 000 000
+        quantity: 1
+        tools: Crafting Table
 
-# item: Block of Silver
-#    recipe:
-#        input:
-#        pattern: ... ... ...
-#        quantity: 1
-#        tools: Crafting Table
+  item: Block of Silver
+    recipe:
+        input: Silver Ingot
+        pattern: 000 000 000
+        quantity: 1
+        tools: Crafting Table
 
-# item: Block of Steel
-#    recipe:
-#        input:
-#        pattern: ... ... ...
-#        quantity: 1
-#        tools: Crafting Table
+  item: Block of Steel
+    recipe:
+        input: Steel Ingot
+        pattern: 000 000 000
+        quantity: 1
+        tools: Crafting Table
 
-# item: Aluminium Grit
-#    recipe:
-#        input:
-#        pattern: ... ... ...
-#        quantity: 1
-#        tools: Crafting Table
+ item: Aluminium Grit
+    recipe:
+        input: Bauxite Ore
+        pattern: 0.. ... ...
+        quantity: 2
+        tools: Crusher
 
-# item: Aluminium Ingot
-#    recipe:
-#        input:
-#        pattern: ... ... ...
-#        quantity: 1
-#        tools: Crafting Table
+  item: Aluminium Ingot
+    recipe:
+        input: Aluminium Grit, Fuel
+        pattern: .0. ... .1.
+        quantity: 1
+        tools: Furnace
 
-# item: Aluminium Nugget
-#    recipe:
-#        input:
-#        pattern: ... ... ...
-#        quantity: 1
-#        tools: Crafting Table
+  item: Aluminium Nugget
+    recipe:
+        input: Aluminium Ingot
+        pattern: 0.. ... ...
+        quantity: 9
 
-# item: Constantan Grit
-#    recipe:
-#        input:
-#        pattern: ... ... ...
-#        quantity: 1
-#        tools: Crafting Table
+  item: Constantan Grit
+    recipe:
+        input: Copper Grit, Nickel Grit
+        pattern: 01. ... ...
+        quantity: 2
 
-# item: Constantan Ingot
-#    recipe:
-#        input:
-#        pattern: ... ... ...
-#        quantity: 1
-#        tools: Crafting Table
+  item: Constantan Ingot
+    recipe:
+        input: Constantan Grit, Fuel
+        pattern: .0. ... .1.
+        quantity: 1
+        tools: Furnace
 
-# item: Constantan Nugget
-#    recipe:
-#        input:
-#        pattern: ... ... ...
-#        quantity: 1
-#        tools: Crafting Table
+  item: Constantan Nugget
+    recipe:
+        input: Constantan Ingot
+        pattern: 0.. ... ...
+        quantity: 9
 
-# item: Copper Grit
-#    recipe:
-#        input:
-#        pattern: ... ... ...
-#        quantity: 1
-#        tools: Crafting Table
+  item: Copper Grit
+    recipe:
+        input: Copper Ore
+        pattern: 0.. ... ...
+        quantity: 2
+        tools: Crusher
 
-# item: Copper Ingot
-#    recipe:
-#        input:
-#        pattern: ... ... ...
-#        quantity: 1
-#        tools: Crafting Table
+  item: Copper Ingot
+    recipe:
+        input: Copper Grit
+        pattern: ... ... ...
+        quantity: 1
+        tools: Furnace
 
-# item: Copper Nugget
-#    recipe:
-#        input:
-#        pattern: ... ... ...
-#        quantity: 1
-#        tools: Crafting Table
+  item: Copper Nugget
+    recipe:
+        input: Copper Ingot
+        pattern: 0.. ... ...
+        quantity: 9
 
-# item: Electrum Grit
-#    recipe:
-#        input:
-#        pattern: ... ... ...
-#        quantity: 1
-#        tools: Crafting Table
+  item: Electrum Grit
+    recipe:
+        input: Gold Grit, Silver Grit
+        pattern: 01. ... ...
+        quantity: 2
 
-# item: Electrum Ingot
-#    recipe:
-#        input:
-#        pattern: ... ... ...
-#        quantity: 1
-#        tools: Crafting Table
+  item: Electrum Ingot
+    recipe:
+        input: Electrum Grit, Fuel
+        pattern: .0. ... .1.
+        quantity: 1
+        tools: Furnace
 
-# item: Electrum Nugget
-#    recipe:
-#        input:
-#        pattern: ... ... ...
-#        quantity: 1
-#        tools: Crafting Table
+  item: Electrum Nugget
+    recipe:
+        input: Electrum Ingot
+        pattern: 0.. ... ...
+        quantity: 9
 
-# item: Gold Grit
-#    recipe:
-#        input:
-#        pattern: ... ... ...
-#        quantity: 1
-#        tools: Crafting Table
+  item: Gold Grit
+    recipe:
+        input: Gold Ore
+        pattern: 0.. ... ...
+        quantity: 2
+        tools: Crusher
 
-# item: HOP Graphite Dust
-#    recipe:
-#        input:
-#        pattern: ... ... ...
-#        quantity: 1
-#        tools: Crafting Table
+  item: HOP Graphite Dust
+    recipe:
+        input: Coke Dust
+        pattern: .0. ... ...
+        quantity: 1
+        tools: Industrial Squeezer
 
-# item: HOP Graphite Ingot
-#    recipe:
-#        input:
-#        pattern: ... ... ...
-#        quantity: 1
-#        tools: Crafting Table
+  item: HOP Graphite Ingot
+    recipe:
+        input: HOP Graphite Dust, Fuel
+        pattern: .0. ... .1.
+        quantity: 1
+        tools: Furnace
 
-# item: Industrial Hemp Fiber
-#    recipe:
-#        input:
-#        pattern: ... ... ...
-#        quantity: 1
-#        tools: Crafting Table
+  item: Industrial Hemp Fiber
+    recipe:
+        input: Industrial Hemp Seeds, Soil
+        pattern: .0. .1. ...
+        quantity: 1
+        
+  item: Industrial Hemp Seeds; gatherable: yes
 
-# item: Industrial Hemp Seeds
-#    recipe:
-#        input:
-#        pattern: ... ... ...
-#        quantity: 1
-#        tools: Crafting Table
+  item: Iron Grit
+    recipe:
+        input: Iron Ore
+        pattern: 0.. ... ...
+        quantity: 2
+        tools: Crusher
 
-# item: Iron Grit
-#    recipe:
-#        input:
-#        pattern: ... ... ...
-#        quantity: 1
-#        tools: Crafting Table
+  item: Iron Nugget
+    recipe:
+        input: Iron Ingot
+        pattern: 0.. ... ...
+        quantity: 9
 
-# item: Iron Nugget
-#    recipe:
-#        input:
-#        pattern: ... ... ...
-#        quantity: 1
-#        tools: Crafting Table
+  item: Lead Grit
+    recipe:
+        input: Lead Ore
+        pattern: 0.. ... ...
+        quantity: 2
+        tools: Crusher
 
-# item: Lead Grit
-#    recipe:
-#        input:
-#        pattern: ... ... ...
-#        quantity: 1
-#        tools: Crafting Table
+  item: Lead Ingot
+    recipe:
+        input: Lead Grit, Fuel
+        pattern: .0. ... .1.
+        quantity: 1
+        tools: Furnace
 
-# item: Lead Ingot
-#    recipe:
-#        input:
-#        pattern: ... ... ...
-#        quantity: 1
-#        tools: Crafting Table
+  item: Lead Nugget
+    recipe:
+        input: Lead Ingot
+        pattern: 0.. ... ...
+        quantity: 9
 
-# item: Lead Nugget
-#    recipe:
-#        input:
-#        pattern: ... ... ...
-#        quantity: 1
-#        tools: Crafting Table
+  item: Nickel Grit
+    recipe:
+        input: Nickel Ore
+        pattern: 0.. ... ...
+        quantity: 2
+        tools: Crusher
 
-# item: Nickel Grit
-#    recipe:
-#        input:
-#        pattern: ... ... ...
-#        quantity: 1
-#        tools: Crafting Table
+  item: Nickel Ingot
+    recipe:
+        input: Nickel Grit, Fuel
+        pattern: .0. ... .1.
+        quantity: 1
+        tools: Furnace
 
-# item: Nickel Ingot
-#    recipe:
-#        input:
-#        pattern: ... ... ...
-#        quantity: 1
-#        tools: Crafting Table
+  item: Nickel Nugget
+    recipe:
+        input: Nickel Ingot
+        pattern: 0.. ... ...
+        quantity: 9
 
-# item: Nickel Nugget
-#    recipe:
-#        input:
-#        pattern: ... ... ...
-#        quantity: 1
-#        tools: Crafting Table
+  item: Quartz Dust
+    recipe:
+        input: Nether Quartz
+        pattern: .0. ... ...
+        quantity: 1
+        tools: Crusher
 
-# item: Quartz Dust
-#    recipe:
-#        input:
-#        pattern: ... ... ...
-#        quantity: 1
-#        tools: Crafting Table
+  item: Silver Grit
+    recipe:
+        input: Silver Ore
+        pattern: .0. ... ...
+        quantity: 2
+        tools: Crusher
 
-# item: Silver Grit
-#    recipe:
-#        input:
-#        pattern: ... ... ...
-#        quantity: 1
-#        tools: Crafting Table
+  item: Silver Ingot
+    recipe:
+        input: Silver Grit, Fuel
+        pattern: .0. ... .1.
+        quantity: 1
+        tools: Furnace
 
-# item: Silver Ingot
-#    recipe:
-#        input:
-#        pattern: ... ... ...
-#        quantity: 1
-#        tools: Crafting Table
+  item: Silver Nugget
+    recipe:
+        input: Silver Ingot
+        pattern: .0. ... ...
+        quantity: 9
 
-# item: Silver Nugget
-#    recipe:
-#        input:
-#        pattern: ... ... ...
-#        quantity: 1
-#        tools: Crafting Table
+  item: Steel Ingot
+    recipe:
+        input: Iron Ingot, Coal Coke
+        pattern: .0. ... .1.
+        quantity: 1
+        tools: Blast Furnace
 
-# item: Steel Ingot
-#    recipe:
-#        input:
-#        pattern: ... ... ...
-#        quantity: 1
-#        tools: Crafting Table
-
-# item: Steel Nugget
-#    recipe:
-#        input:
-#        pattern: ... ... ...
-#        quantity: 1
-#        tools: Crafting Table
+  item: Steel Nugget
+    recipe:
+        input: Steel Ingot
+        pattern: .0. ... ...
+        quantity: 9
 
 group: Bullets
 
@@ -801,12 +776,12 @@ group: Building Blocks
 #        quantity: 1
 #        tools: Crafting Table
 
-# item: Aluminium Slab
-#    recipe:
-#        input:
-#        pattern: ... ... ...
-#        quantity: 1
-#        tools: Crafting Table
+  item: Aluminium Slab
+    recipe:
+        input: Block of Aluminium
+        pattern: 000 ... ...
+        quantity: 6
+        tools: Crafting Table
 
 # item: Aluminium Structural Arm
 #    recipe:
@@ -850,26 +825,26 @@ group: Building Blocks
 #        quantity: 1
 #        tools: Crafting Table
 
-# item: Constantan Slab
-#    recipe:
-#        input:
-#        pattern: ... ... ...
-#        quantity: 1
-#        tools: Crafting Table
+  item: Constantan Slab
+    recipe:
+        input: Block of Constantan
+        pattern: 000 ... ...
+        quantity: 6
+        tools: Crafting Table
 
-# item: Copper Slab
-#    recipe:
-#        input:
-#        pattern: ... ... ...
-#        quantity: 1
-#        tools: Crafting Table
+  item: Copper Slab
+    recipe:
+        input: Block of Copper
+        pattern: 000 ... ...
+        quantity: 6
+        tools: Crafting Table
 
-# item: Electrum Slab
-#    recipe:
-#        input:
-#        pattern: ... ... ...
-#        quantity: 1
-#        tools: Crafting Table
+  item: Electrum Slab
+    recipe:
+        input: Block of Electrum
+        pattern: 000 ... ...
+        quantity: 6
+        tools: Crafting Table
 
 # item: Fermenter
 #    recipe:
@@ -955,12 +930,12 @@ group: Building Blocks
 #        quantity: 1
 #        tools: Crafting Table
 
-# item: Lead Slab
-#    recipe:
-#        input:
-#        pattern: ... ... ...
-#        quantity: 1
-#        tools: Crafting Table
+  item: Lead Slab
+   recipe:
+        input: Block of Lead
+        pattern: 000 ... ...
+        quantity: 6
+        tools: Crafting Table
 
 # item: Light Engineering Block
 #    recipe:
@@ -983,12 +958,12 @@ group: Building Blocks
 #        quantity: 1
 #        tools: Crafting Table
 
-# item: Nickel Slab
-#    recipe:
-#        input:
-#        pattern: ... ... ...
-#        quantity: 1
-#        tools: Crafting Table
+  item: Nickel Slab
+    recipe:
+        input: Block of Nickel
+        pattern: 000 ... ...
+        quantity: 6
+        tools: Crafting Table
 
 # item: Radiator Block
 #    recipe:
@@ -1011,19 +986,19 @@ group: Building Blocks
 #        quantity: 1
 #        tools: Crafting Table
 
-# item: Silver Slab
-#    recipe:
-#        input:
-#        pattern: ... ... ...
-#        quantity: 1
-#        tools: Crafting Table
+  item: Silver Slab
+    recipe:
+        input: Block of Silver
+        pattern: 000 ... ...
+        quantity: 6
+        tools: Crafting Table
 
-# item: Steel Fence
-#    recipe:
-#        input:
-#        pattern: ... ... ...
-#        quantity: 1
-#        tools: Crafting Table
+  item: Steel Fence
+    recipe:
+        input: Steel Rod
+        pattern: 000 000 ...
+        quantity: 2
+        tools: Crafting Table
 
 # item: Steel Mechanical Component
 #    recipe:
@@ -1032,12 +1007,12 @@ group: Building Blocks
 #        quantity: 1
 #        tools: Crafting Table
 
-# item: Steel Scaffolding
-#    recipe:
-#        input:
-#        pattern: ... ... ...
-#        quantity: 1
-#        tools: Crafting Table
+  item: Steel Scaffolding
+    recipe:
+        input: Steel Ingot, Steel Fence
+        pattern: 000 .1. 1.1
+        quantity: 6
+        tools: Crafting Table
 
 # item: Steel Sheet Metal Block
 #    recipe:
@@ -1046,12 +1021,12 @@ group: Building Blocks
 #        quantity: 1
 #        tools: Crafting Table
 
-# item: Steel Slab
-#    recipe:
-#        input:
-#        pattern: ... ... ...
-#        quantity: 1
-#        tools: Crafting Table
+  item: Steel Slab
+    recipe:
+        input: Block of Steel
+        pattern: 000 ... ...
+        quantity: 6
+       tools: Crafting Table
 
 # item: Steel Wall Mount
 #    recipe:
@@ -1081,12 +1056,12 @@ group: Building Blocks
 #        quantity: 1
 #        tools: Crafting Table
 
-# item: Treated Wood Slab
-#    recipe:
-#        input:
-#        pattern: ... ... ...
-#        quantity: 1
-#        tools: Crafting Table
+  item: Treated Wood Slab
+    recipe:
+        input: Treated Wood Planks
+        pattern: 000 ... ...
+        quantity: 6
+        tools: Crafting Table
 
 # item: Treated Wood Stairs
 #    recipe:
@@ -1126,12 +1101,12 @@ group: Structures
 #        quantity: 1
 #        tools: Crafting Table
 
-# item: Conveyor Belt
-#    recipe:
-#        input:
-#        pattern: ... ... ...
-#        quantity: 1
-#        tools: Crafting Table
+  item: Conveyor Belt
+    recipe:
+        input: Leather, Iron Ingot, Redstone Dust
+        pattern: 000 121 ...
+        quantity: 8
+        tools: Crafting Table
 
 # item: Core Sample Drill
 #    recipe:
@@ -1214,12 +1189,12 @@ group: Liquids
 
 group: Fuels
 
-# item: Coal Coke
-#    recipe:
-#        input:
-#        pattern: ... ... ...
-#        quantity: 1
-#        tools: Crafting Table
+  item: Coal Coke
+    recipe:
+        input: Coal
+        pattern: .0. ... ...
+        quantity: 1
+        tools: Coke Oven
 
 # item: Coke Brick
 #    recipe:
@@ -1228,12 +1203,12 @@ group: Fuels
 #        quantity: 1
 #        tools: Crafting Table
 
-# item: Coke Dust
-#    recipe:
-#        input:
-#        pattern: ... ... ...
-#        quantity: 1
-#        tools: Crafting Table
+  item: Coke Dust
+    recipe:
+        input: Coal Coke
+        pattern: .0. ... ...
+        quantity: 1
+        tools: Crusher
 
 group: Metal Press
 
